@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/)](https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/) , 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/)](https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ryancho.hakhyeon@gmail.com)
 
 ### Hi there, I'm a Junior Developer use programming languages and tools below. I have strong passion of my works and interests, and I want to  👋
