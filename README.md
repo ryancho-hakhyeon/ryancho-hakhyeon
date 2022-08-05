@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/)](https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ryancho.hakhyeon@gmail.com)
 
-### Hi there 👋, I'm a Junior Developer use programming languages and tools below. I have strong passion of my works and interests, and I want to  
+### Hi there 👋, I'm a Junior Developer using the programming languages and tools below. I have a strong passion for my work and interests, and I want to learn and enhance my knowledge of industrial skills.
 An experienced Computer Information Technology diploma with over 2 years in BCIT college. Excellent collaboration for resolving problems and improving weakness. And, With a positive attitude, willingness to take a passion to meet team goals.
 
 ### Skills (Programming Languages & Tools)
