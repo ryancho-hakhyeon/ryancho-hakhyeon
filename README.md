@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RyanChorender&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20GitHub%20Profile%20!%20Junior%20Developer%20!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RyanCho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20GitHub%20Profile%20!%20Junior%20Developer%20!&descAlignY=51&descAlign=62)
 
 
 <br/>
@@ -44,7 +44,7 @@ https://ryanchoportfolio.netlify.app/
 
 ## :book: Certificates
 #### AWS Cloud Practitioner Foundational - issued by Oct. 2023
-[![AWS Cloud Pratitioner Foundational](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/da4e2591-5df4-4550-8517-f1f71a82b60b/public_url)
+[![AWS Cloud Pratitioner Foundational](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/da4e2591-5df4-4550-8517-f1f71a82b60b/public_url)
 
 
 <!--
