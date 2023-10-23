@@ -1,16 +1,26 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/)](https://www.linkedin.com/in/ryan-hakhyeon-cho-9832a019b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-hakhyeon-cho/)](https://www.linkedin.com/in/ryan-hakhyeon-cho/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ryancho.hakhyeon@gmail.com)
 
 ### Hi there 👋, I'm a Junior Developer using the programming languages and tools below. I have a strong passion for my work and interests, and I want to learn and enhance my knowledge of industrial skills.
+
 An experienced Computer Information Technology diploma with over 2 years in BCIT college. Excellent collaboration for resolving problems and improving weakness. And, With a positive attitude, willingness to take a passion to meet team goals.
 
 <p>Check Here: https://ryanchoportfolio.netlify.app/</p>
 
 ### Skills (Programming Languages & Tools)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> , <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> , <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> , <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> , <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> , <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> , <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> , <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> , <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> , <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> , <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> , <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> , <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> , <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/> , <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> , <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> , <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> , <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+
+<p>Programming Langauges: <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge"></p>
+<p>Frontend Tech: <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">, <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat-square" alt="Angular Badge">, <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap Badge">, <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=flat-square" alt="Chart.js Badge">, <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat-square" alt="NGINX Badge"></p>
+<p>Backend Tech: <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">, <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">, <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square" alt="Flask Badge">, <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat-square" alt="JSON Badge"></p>
+<p>Database & Data Analysis: <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square" alt="NumPy Badge">, <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square" alt="pandas Badge">, <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">, <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge">, <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square" alt="R Badge">, <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square" alt="Microsoft Excel Badge">, <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square" alt="SQLite Badge"></p>
+<p>Tools: <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square" alt="Amazon AWS Badge">, <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat-square" alt="Microsoft Azure Badge">, <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat-square" alt="Jenkins Badge">, <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge">, <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat-square" alt="Microsoft Office Badge">, <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square" alt="Ubuntu Badge">, <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge">, <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square" alt="Kubernetes Badge">, <img src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square" alt="Ansible Badge"></p>
 
 
+### Certificates
+
+<h3>AWS Cloud Practitioner Foundational - issued by Oct. 2023</h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="da4e2591-5df4-4550-8517-f1f71a82b60b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--
 **ryancho-hakhyeon/ryancho-hakhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +35,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Badge Icons: https://badges.pages.dev/
 -->
 
 <!--
