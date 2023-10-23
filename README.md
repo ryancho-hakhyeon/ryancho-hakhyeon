@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Ryan%Cho&fontColor=ffffff&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=RyanCho&fontColor=fff&fontSize=70&animation=fadeIn)
 
 
 <br/>
@@ -21,7 +21,7 @@ An experienced Computer Information Technology diploma with over 2 years in BCIT
 ## Skills (Programming Languages & Tools)
 
 <p>Programming Langauges: </p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
+<p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge"></p>
 
 <p>Frontend Tech: </p>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">, <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat-square" alt="Angular Badge">, <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap Badge">, <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=flat-square" alt="Chart.js Badge">, <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat-square" alt="NGINX Badge">
