@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RyanCho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20GitHub%20Profile%20!%20Junior%20Developer%20!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ryan%20Cho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20GitHub%20Profile%20!%20Junior%20Developer%20!&descAlignY=51&descAlign=62)
 
 
 <br/>
@@ -14,11 +14,10 @@
 
 An experienced Computer Information Technology diploma with over 2 years in BCIT college. Excellent collaboration for resolving problems and improving weakness. And, With a positive attitude, willingness to take a passion to meet team goals.
 
-<div>
-<p>My Portfolio (For more detail, visit here)</p>
 
-https://ryanchoportfolio.netlify.app/
-</div>
+<p>My Portfolio (For more detail, visit here)</p>
+[![My Portfolio](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png)](https://ryanchoportfolio.netlify.app/)
+
 <br/>
 <br/>
 
