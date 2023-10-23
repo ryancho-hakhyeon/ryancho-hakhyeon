@@ -1,10 +1,11 @@
 
-<div align=center>
-    ![header](https://capsule-render.vercel.app/api?type=Waving&text=Ryan%Cho&fontColor=ffffff&fontSize=70&animation=fadeIn)
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Ryan%Cho&fontColor=ffffff&fontSize=70&animation=fadeIn)
+
 
 <br/>
 <br/>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat&link=https://www.linkedin.com/in/ryan-hakhyeon-cho/)](https://www.linkedin.com/in/ryan-hakhyeon-cho/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square&link=mailto:ryancho.hakhyeon@gmail.com)](mailto:ryancho.hakhyeon@gmail.com)
 
@@ -62,6 +63,9 @@ Badge Icons: https://badges.pages.dev/
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<br/>
+<br/>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryancho-hakhyeon)](https://github.com/anuraghazra/github-readme-stats)
 
