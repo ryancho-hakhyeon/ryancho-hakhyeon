@@ -14,8 +14,9 @@
 
 An experienced Computer Information Technology diploma with over 2 years in BCIT college. Excellent collaboration for resolving problems and improving weakness. And, With a positive attitude, willingness to take a passion to meet team goals.
 
-[!NOTE]
-My Portfolio (For more detail, visit here)
+> [!NOTE]
+> My Portfolio (For more detail, visit here)
+
 [![Name](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png)](https://ryanchoportfolio.netlify.app/)
 
 <br/>
