@@ -20,7 +20,7 @@ An experienced Computer Information Technology diploma with over 2 years in BCIT
 <!-- <a href="https://ryanchoportfolio.netlify.app/">
 <img src="https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png" width="150" height="150" style="border-radius:50%">
 </a> -->
-[![Portfolio Webpage](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png?h=50&w=50&mask=circle)](https://ryanchoportfolio.netlify.app/)
+[![Portfolio Webpage](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png)](https://ryanchoportfolio.netlify.app/)
 
 <br/>
 <br/>
