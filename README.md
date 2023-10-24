@@ -14,9 +14,9 @@
 
 An experienced Computer Information Technology diploma with over 2 years in BCIT college. Excellent collaboration for resolving problems and improving weakness. And, With a positive attitude, willingness to take a passion to meet team goals.
 
-
-<p>My Portfolio (For more detail, visit here)</p>
-[![My Portfolio](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png)](https://ryanchoportfolio.netlify.app/)
+[!NOTE]
+My Portfolio (For more detail, visit here)
+[![Name](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png) | width=100](https://ryanchoportfolio.netlify.app/)
 
 <br/>
 <br/>
@@ -44,7 +44,6 @@ An experienced Computer Information Technology diploma with over 2 years in BCIT
 ## :book: Certificates
 #### AWS Cloud Practitioner Foundational - issued by Oct. 2023
 [![AWS Cloud Pratitioner Foundational](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/da4e2591-5df4-4550-8517-f1f71a82b60b/public_url)
-
 
 <!--
 **ryancho-hakhyeon/ryancho-hakhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
