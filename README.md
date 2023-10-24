@@ -17,7 +17,8 @@ An experienced Computer Information Technology diploma with over 2 years in BCIT
 > [!NOTE]
 > My Portfolio (For more detail, visit here)
 
-[![Name](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png)](https://ryanchoportfolio.netlify.app/)
+<img src="https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png" width="100" height="100">
+<!-- [![Portfolio Webpage](https://github.com/ryancho-hakhyeon/ryancho-hakhyeon/blob/main/images/my_pic.png)](https://ryanchoportfolio.netlify.app/) -->
 
 <br/>
 <br/>
